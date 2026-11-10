@@ -9,7 +9,7 @@ group: Reuse and contribution
 
 The content roadmap lists content that is planned or in progress for the AI Modernisation (AIM) Blueprint. It helps contributors see what is already being worked on before they suggest something new.
 
-This page is being set up. To suggest new content or check whether something is already planned, email [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk).
+This page is being set up. To suggest new content or check whether something is already planned, email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk).
 
 ## How the roadmap works
 
@@ -23,4 +23,4 @@ We are currently populating this roadmap. Check back soon, or contact the LAP AI
 
 ## Who to contact
 
-LAP AI Enablement Team, Defra: [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk)
+LAP AI Enablement Team, Defra: [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk)

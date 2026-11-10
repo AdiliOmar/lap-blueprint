@@ -14,7 +14,7 @@ The AI Modernisation (AIM) Blueprint is looked after by the LAP AI Enablement Te
 
 ### Ask a question or report a problem
 
-Email [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk). Tell us:
+Email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk). Tell us:
 
 - which page or agent your question is about
 - what you need help with
@@ -293,7 +293,7 @@ No. Approved means approved for use in Defra. Before you use any AI tool or agen
 
 </summary>
 
-The LAP AI Enablement Team at Defra owns the Blueprint as a whole. Each page and agent also has a named owner who keeps it accurate. If you are not sure who to ask, email [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk).
+The LAP AI Enablement Team at Defra owns the Blueprint as a whole. Each page and agent also has a named owner who keeps it accurate. If you are not sure who to ask, email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk).
 
 </details>
 
@@ -315,7 +315,7 @@ Yes. Follow [How to contribute to the AIM Blueprint](~/delivery-management/bluep
 
 </summary>
 
-Email [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk). You can check whether it is already planned on the [Blueprint content roadmap](~/delivery-management/content-roadmap/).
+Email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk). You can check whether it is already planned on the [Blueprint content roadmap](~/delivery-management/content-roadmap/).
 
 </details>
 

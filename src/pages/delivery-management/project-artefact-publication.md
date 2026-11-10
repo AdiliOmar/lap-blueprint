@@ -77,4 +77,4 @@ A reviewer checks that the artefact is safe to share, useful and has the right a
 
 ## Who to contact
 
-LAP AI Enablement Team, Defra: [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk)
+LAP AI Enablement Team, Defra: [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk)
