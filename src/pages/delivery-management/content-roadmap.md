@@ -19,8 +19,8 @@ This page is being set up. To suggest new content or check whether something is 
 
 ## Planned and in-progress content
 
-We are currently populating this roadmap. Check back soon, or contact the LAP AI Enablement Team for the latest position.
+We are currently populating this roadmap. Check back soon, or contact the LAP AI Innovations Team for the latest position.
 
 ## Who to contact
 
-LAP AI Enablement Team, Defra: [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk)
+LAP AI Innovations Team, Defra: [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk)

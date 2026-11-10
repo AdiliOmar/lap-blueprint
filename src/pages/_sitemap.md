@@ -202,7 +202,7 @@ _(Full stage-by-stage content to be completed once each linked Process page is w
 
 **Download / Link:** Reusable Assets repository → prompt-libraries/legacy-modernisation
 
-**Who Maintains It:** AI Enablement Team
+**Who Maintains It:** AI Innovations Team
 
 **Related Process/Playbook:** Supports the Legacy Application Modernisation Playbook (PB-001), particularly the "Modernise the application" stage.
 

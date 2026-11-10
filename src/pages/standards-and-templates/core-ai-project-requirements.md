@@ -92,8 +92,8 @@ When engaged on a project a supplier is expected to design, build, and evidence 
 The Supplier shall, as a condition of delivery:
 
 - Capture and document all AI-derived metrics, methodologies, and operational learning generated during the engagement
-- Package this material, including underlying know-how and intellectual property, for formal handover to the Defra AI Enablement Team
-- Complete this handover prior to final acceptance, in a format and structure specified by the AI Enablement Team
+- Package this material, including underlying know-how and intellectual property, for formal handover to the Defra AI Innovations Team
+- Complete this handover prior to final acceptance, in a format and structure specified by the AI Innovations Team
 - Ensure the package supports inclusion in the AI Modernisation (AIM) Blueprint and integration into the AI modernisation tooling
 
 9. **AI Modernisation Metrics**

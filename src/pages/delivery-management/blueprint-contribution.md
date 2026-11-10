@@ -77,4 +77,4 @@ The page owner keeps the content accurate. We will ask page owners to review the
 
 ## Who to contact
 
-LAP AI Enablement Team, Defra: [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk)
+LAP AI Innovations Team, Defra: [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk)

@@ -183,7 +183,7 @@ Every artefact must have a named owner team. The owner team:
 
 - keeps the artefact and its documentation up to date
 - responds to issues and change requests
-- tells the LAP AI Enablement Team if they can no longer support it
+- tells the LAP AI Innovations Team if they can no longer support it
 
 New artefacts are approved by Defra's AI Capability and Enablement (AICE) team before they appear in the Artefact Directory.
 
@@ -237,7 +237,7 @@ Owner teams should review their artefacts every 6 months to confirm they still w
 
 If you require contributor access, assistance with submissions, or support with the review process, please contact:
 
-[LAP AI Enablement Team](mailto:LAP-AI-Innovations@defra.gov.uk)
+[LAP AI Innovations Team](mailto:LAP-AI-Innovations@defra.gov.uk)
 
 ## Review principle
 

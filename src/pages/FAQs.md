@@ -10,7 +10,7 @@ fullWidth: true
 
 ## Get help and give feedback
 
-The AI Modernisation (AIM) Blueprint is looked after by the LAP AI Enablement Team at Defra. Each page and agent also has a named owner who keeps it up to date. Anyone in government can contact us.
+The AI Modernisation (AIM) Blueprint is looked after by the LAP AI Innovations Team at Defra. Each page and agent also has a named owner who keeps it up to date. Anyone in government can contact us.
 
 ### Ask a question or report a problem
 
@@ -293,7 +293,7 @@ No. Approved means approved for use in Defra. Before you use any AI tool or agen
 
 </summary>
 
-The LAP AI Enablement Team at Defra owns the Blueprint as a whole. Each page and agent also has a named owner who keeps it accurate. If you are not sure who to ask, email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk).
+The LAP AI Innovations Team at Defra owns the Blueprint as a whole. Each page and agent also has a named owner who keeps it accurate. If you are not sure who to ask, email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk).
 
 </details>
 

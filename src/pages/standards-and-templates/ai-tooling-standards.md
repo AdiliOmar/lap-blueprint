@@ -64,4 +64,4 @@ A step-by-step guide to using AI-assisted analysis to produce Product Requiremen
 
 Ask the AI Capability and Enablement team about setup, security or how to get the most out of it.
 
-Email: LAP-AI-Innovations@defra.gov.uk
+Email: AICapabilityAndEnablement@defra.gov.uk
