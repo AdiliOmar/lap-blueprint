@@ -23,7 +23,7 @@ Use the right route for your content:
 - Project artefacts and modernisation examples – follow [How to publish your project artefacts](~/delivery-management/project-artefact-publication/)
 - Patterns, standards and templates – follow the steps on this page
 - Lessons learned – add them to your project's modernisation example under "Lessons for reuse", or submit a short page using the steps below
-- Corrections to an existing page – follow the steps on this page, or email [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk) for a small fix
+- Corrections to an existing page – follow the steps on this page, or email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk) for a small fix
 
 ## Before you start
 
@@ -38,7 +38,7 @@ The Blueprint is a public website. Anything you submit must be suitable for anyo
 
 ### 1. Tell us your idea — Owner: Contributor
 
-Email [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk) with a short description. We will check it does not repeat existing content and add it to the [Blueprint content roadmap](~/delivery-management/content-roadmap/).
+Email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk) with a short description. We will check it does not repeat existing content and add it to the [Blueprint content roadmap](~/delivery-management/content-roadmap/).
 
 ### 2. Write your content — Owner: Contributor
 
@@ -48,7 +48,7 @@ Use plain English and follow the [GOV.UK style guide](https://www.gov.uk/guidanc
 
 If you work in Defra or for a Defra supplier: raise a pull request (a request to add your changes) to the AIM Blueprint GitHub repository. See [GitHub access](~/delivery-management/github-access/).
 
-If you work in another department: fork the repository (make your own copy of it) and raise a pull request from your copy. If you cannot use GitHub, email your content to [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk) and we will add it for you.
+If you work in another department: fork the repository (make your own copy of it) and raise a pull request from your copy. If you cannot use GitHub, email your content to [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk) and we will add it for you.
 
 In the description, say what the content is, who it helps and anything reviewers should check.
 
@@ -77,4 +77,4 @@ The page owner keeps the content accurate. We will ask page owners to review the
 
 ## Who to contact
 
-LAP AI Enablement Team, Defra: [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk)
+LAP AI Innovations Team, Defra: [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk)

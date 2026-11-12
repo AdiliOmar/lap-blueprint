@@ -47,7 +47,7 @@ See the [GitHub Copilot guidance on the AI Toolkit](https://digital.defra.gov.uk
 
 Ask the AI Capability and Enablement team about setup, security, or how to get the most out of it.
 
-Email: [AICapabilityAndEnablement@defra.gov.uk](mailto:AICapabilityAndEnablement@defra.gov.uk)
+Email: [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk)
 
 ## Microsoft 365 Copilot
 

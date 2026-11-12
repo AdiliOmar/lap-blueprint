@@ -129,7 +129,7 @@ The pull request should include:
 - Any known limitations or considerations.
 
 The pull request acts as the formal review and assurance mechanism for inclusion in the Artefact Directory.
-Please contact the Owners/Contributors of the [DEFRA AI config examples repository](https://github.com/DEFRA/defra-ai-config-examples) or contact the Program Manager for LAP programme or LAP-AIEnablement@defra.gov.uk to have your PR reviewed.
+Please contact the Owners/Contributors of the [DEFRA AI config examples repository](https://github.com/DEFRA/defra-ai-config-examples) or contact the Program Manager for LAP programme or LAP-AI-Innovations@defra.gov.uk to have your PR reviewed.
 
 </details>
 <details><summary>
@@ -183,7 +183,7 @@ Every artefact must have a named owner team. The owner team:
 
 - keeps the artefact and its documentation up to date
 - responds to issues and change requests
-- tells the LAP AI Enablement Team if they can no longer support it
+- tells the LAP AI Innovations Team if they can no longer support it
 
 New artefacts are approved by Defra's AI Capability and Enablement (AICE) team before they appear in the Artefact Directory.
 
@@ -199,7 +199,7 @@ Record what changed in each pull request. The Artefact Directory always links to
 
 ## Ask for a change or report a problem
 
-Raise an issue in the [DEFRA AI config examples repository](https://github.com/DEFRA/defra-ai-config-examples). Say which artefact it is about, what you need and why. The owner team reviews the issue and decides whether to make the change. If you do not get a reply within 10 working days, email [LAP-AIEnablement@defra.gov.uk](mailto:LAP-AIEnablement@defra.gov.uk).
+Raise an issue in the [DEFRA AI config examples repository](https://github.com/DEFRA/defra-ai-config-examples). Say which artefact it is about, what you need and why. The owner team reviews the issue and decides whether to make the change. If you do not get a reply within 10 working days, email [LAP-AI-Innovations@defra.gov.uk](mailto:LAP-AI-Innovations@defra.gov.uk).
 
 ## Contributions from suppliers
 
@@ -237,7 +237,7 @@ Owner teams should review their artefacts every 6 months to confirm they still w
 
 If you require contributor access, assistance with submissions, or support with the review process, please contact:
 
-[LAP AI Enablement Team](mailto:LAP-AIEnablement@defra.gov.uk)
+[LAP AI Innovations Team](mailto:LAP-AI-Innovations@defra.gov.uk)
 
 ## Review principle
 
@@ -245,7 +245,7 @@ No AI artefact will be published to the Artefact Directory without an approved p
 
 ## Who to contact
 
-Delivery lead (process coordination), engineering lead (Artefact Directory repository contributor), LAP-AIEnablement@defra.gov.uk, AICapabilitiesEnablement@defra.gov.uk
+Delivery lead (process coordination), engineering lead (Artefact Directory repository contributor), LAP-AI-Innovations@defra.gov.uk
 
 ## Related agent/tool links
 
