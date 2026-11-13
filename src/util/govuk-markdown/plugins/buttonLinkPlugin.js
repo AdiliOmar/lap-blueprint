@@ -1,0 +1,49 @@
+import { defineHastPlugin } from "satteri";
+import { BUTTON_LINK_PREFIX } from "../constants.js";
+import { asArray, mergeProperties } from "../helpers.js";
+import { TAG_ATTRIBUTE_MAP } from "../constants.js";
+
+/**
+ * Matches link text flagged for GOV.UK button styling.
+ *
+ * Note: the requested pattern `/^button!.*+$/` is normalized to JavaScript's
+ * supported equivalent `/^button!.*$/`.
+ *
+ * @type {RegExp}
+ */
+const BUTTON_LINK_TEXT_PATTERN = /^button!.*$/;
+
+/**
+ * Renders links prefixed with `button!` as GOV.UK button-styled anchors.
+ */
+export const buttonLinkPlugin = defineHastPlugin({
+  name: "govuk-markdown-button-link",
+  element: {
+    filter: ["a"],
+    /**
+     * @param {import('hast').Element} node - The matched HAST element node.
+     * @param {import('satteri').HastVisitorContext} ctx - The visitor context.
+     */
+    visit(node, ctx) {
+      const text = ctx.textContent(node).trim();
+      if (!BUTTON_LINK_TEXT_PATTERN.test(text)) return;
+
+      const existing = asArray(node.properties?.className);
+      const cleanLabel = text.replace(BUTTON_LINK_PREFIX, "").trimStart();
+      const nonLinkClasses = existing.filter(
+        (className) => !TAG_ATTRIBUTE_MAP.a.class.includes(className),
+      );
+
+      ctx.replaceNode(node, {
+        type: "element",
+        tagName: "a",
+        properties: mergeProperties(node.properties, {
+          className: [...nonLinkClasses, "govuk-button"],
+          role: "button",
+          "data-module": "govuk-button",
+        }),
+        children: [{ type: "text", value: cleanLabel }],
+      });
+    },
+  },
+});

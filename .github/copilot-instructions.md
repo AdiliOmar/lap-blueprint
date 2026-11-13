@@ -448,13 +448,11 @@ The `.github` directory contains several subdirectories and files that organize 
 - `agents/`: Contains agent configuration files (e.g., `Developer.agent.md`) that define custom conversational behaviors for Copilot and other agents. As of October 2025, GitHub renamed "Chat Modes" to "Agents".
 
 - `instructions/`: Holds instruction files for backend, frontend, and documentation. These guide Copilot and other agents on best practices and project-specific rules. You must apply these instructions to relevant files in the repository.
-  - `docs.instructions.md`
   - `frontend.instructions.md`
+  - `markdown.instructions.md` - apply when working on Markdown files, especially content under `src/pages/`, to follow the repository's Markdown, Mermaid, GOV.UK HTML, and internal-linking conventions.
 
 - `prompts/`: Includes prompt templates (e.g., `write-adr.prompt.md`, `write-docs.prompt.md`, `write-prd.prompt.md`) used to generate architectural decision records, documentation, and product requirements. These help standardize and accelerate content creation.
 
 - `workflows/`: Intended for GitHub Actions workflow files, which automate CI/CD and other repository tasks.
 
 Refer to the main README.md for a full overview of repository goals and usage.
-
-<!-- © Capgemini 2025 -->
